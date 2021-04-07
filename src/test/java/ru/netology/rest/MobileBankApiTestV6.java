@@ -1,4 +1,4 @@
-package rest;
+package ru.netology.rest;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.filter.log.LogDetail;
